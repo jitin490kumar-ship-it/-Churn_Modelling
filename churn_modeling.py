@@ -8,7 +8,7 @@ print(tf.__version__)
 # Part 1 - Data Preprocessing
 
 # Importing the dataset
-dataset = pd.read_csv('./data/Churn_Modelling.csv')
+dataset = pd.read_csv('Churn_Modelling.csv')
 
 
 # Features (Independent Variables)
